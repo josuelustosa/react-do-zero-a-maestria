@@ -13,12 +13,10 @@ class Product {
 }
 
 const priceProduct = 350
-const discountProduct = 10
+const discountProduct = 15
 
 const shirt = new Product('Camisa 1 Oficial Flamengo', `${priceProduct}`)
 
-console.log(shirt.name)
-
-console.log(`Preço do produto: R$ ${priceProduct}`)
+console.log(`Preço da ${shirt.name}: R$ ${priceProduct}`)
 
 console.log(`Produto com ${discountProduct}% de desconto: R$`, shirt.productWithDiscount(discountProduct))
