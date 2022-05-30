@@ -8,7 +8,7 @@ Esse repositório é destinado ao conteúdo desenvolvido no curso *[React do Zer
 ## :bookmark_tabs: Conteúdo do Curso
 1. [Seção 1: Introdução :heavy_check_mark:](https://github.com/josuelustosadev/react-do-zero-a-maestria/tree/master/secao-1-introducao/hello-world)
 2. [Seção 2: Fundamentos do React :heavy_check_mark:](https://github.com/josuelustosadev/react-do-zero-a-maestria/tree/master/secao-2-fundamentos-do-react/fundamentos-react)
-3. :man_mechanic:
+3. [Seção 3: Avançando em React](https://github.com/josuelustosadev/react-do-zero-a-maestria/tree/master/secao-3-avancando-em-react/avancando-em-react)
 4. :man_mechanic:
 5. :man_mechanic:
 6. :man_mechanic:
@@ -22,4 +22,3 @@ Esse repositório é destinado ao conteúdo desenvolvido no curso *[React do Zer
 
 ---
 > :paintbrush: Desenvolvido por: [Josué Lustosa | Frontend Developer](https://beacons.page/josuelustosajob/).
-
