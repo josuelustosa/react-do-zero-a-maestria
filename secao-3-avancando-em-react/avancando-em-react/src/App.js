@@ -1,6 +1,7 @@
 import './App.css';
 
 import City from './assets/city.jpg';
+import ListRender from './components/ListRender';
 import { ManagaData } from './components/ManagaData';
 
 function App() {
@@ -19,7 +20,7 @@ function App() {
       </div>
 
       <ManagaData />
-
+      <ListRender />
     </div>
   );
 }
